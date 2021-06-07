@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "wiki.api-base-url",
+      "type": "java.lang.String",
+      "description": "Base URL to MediaWiki API."
+    },
+    {
+      "name": "wiki.oauth2-access-token",
+      "type": "java.lang.String",
+      "description": "OAuth 2 authorization token."
+    }
+  ] }
